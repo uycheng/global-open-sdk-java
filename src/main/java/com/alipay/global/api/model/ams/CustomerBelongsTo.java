@@ -42,5 +42,7 @@ public enum CustomerBelongsTo {
 
     DIRECT_DEBIT_KRUNGTHAIBANK,
 
-    ZALOPAY;
+    ZALOPAY,
+
+    OVO;
 }
